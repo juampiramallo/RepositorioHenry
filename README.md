@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Curso Preparatorio Henry M2
+Este es un proyecto de prueba de como crear unn repositiorio y clonarlo desde github a mi computadora.
